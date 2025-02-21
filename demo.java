@@ -3,5 +3,6 @@ public class demo{
         System.out.println("Hello good morning welcome to java");
 
         System.out.println(" How are you ");
+        System.out.println(" How are you ");
     }
 }
